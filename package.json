@@ -1,0 +1,23 @@
+{
+  "name": "login_page",
+  "version": "1.0.0",
+  "description": "Este é um projeto para página de login moderna, interativa e responsiva utilizando Tailwind CSS.",
+  "main": "index.js",
+  "scripts": {
+    "start": "tailwindcss -i ./src/styles.css -o ./dist/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusDrumond/login_page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusDrumond/login_page/issues"
+  },
+  "homepage": "https://github.com/matheusDrumond/login_page#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.14",
+    "tailwindcss": "^3.3.2"
+  }
+}
