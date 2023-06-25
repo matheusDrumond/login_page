@@ -13,6 +13,9 @@ module.exports = {
       },
       animation: {
         upDown: 'upDown 6s ease-in-out infinite'
+      },
+      screens:{
+        'phone': "320px"
       }
     },
   },
